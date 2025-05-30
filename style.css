@@ -142,3 +142,9 @@ body{
     display: inline-block;
      color: rgb(24, 184, 184);
   } 
+  .pic-footer{
+    width: 30px;
+  }
+.container{
+    background-color: #72c7ff;
+}
