@@ -82,6 +82,12 @@ a:hover{
 
   }
 
-  .card-back{
+  .card-front{
     background-color: #ffff;
+  }
+
+  .card-back{
+    background-color: #333;
+    color: #fff;
+    transform: rotateY(180deg);
   }
