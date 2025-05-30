@@ -175,7 +175,11 @@ tr{
 }
 .serv-imag{
     background-color: aqua;
-    width: 50%;
+    width: 70%;
     margin-left: 40vh;
 
+}
+.serv-imag-2{
+    position: absolute;
+    float: right;
 }
