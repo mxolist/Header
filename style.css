@@ -141,10 +141,15 @@ body{
     padding: 1vh;
     display: inline-block;
      color: rgb(24, 184, 184);
+     
   } 
   .pic-footer{
     width: 30px;
   }
 .container{
+    width: 100%;
     background-color: #72c7ff;
+    text-align: center;
+    position: absolute;
+    bottom: .5%;
 }
