@@ -86,7 +86,9 @@ a:hover{
     background-color: #ffff;
   }
   
-  
+  .pic{
+    width: 199px;
+  }
 
   .card-back{
     background-color: #333;
