@@ -156,7 +156,7 @@ body{
 
 }
 .p-footer{
-    display: flex;
+    display:inline-flexbox;
     float: left;
     color: #3072b4;
 }
