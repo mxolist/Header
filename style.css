@@ -192,10 +192,11 @@ tr:hover {background-color: #dd0101;}
     background-color: aqua;
     width: 50%;
     margin-left: 50vh;
-    padding-right: 12px;
+   
 
 }
-.serv-imag img.serv-imag-2{
-    position: absolute;
+ img.serv-imag-2 {
+    position:relative;
     float: right;
+    
 }
