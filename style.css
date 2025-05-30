@@ -52,8 +52,8 @@ a:hover{
   .card{
     width: 200px;
     height: 300px;
-    perspective: 1000px;
-    margin: 0 auto;
+    perspective: 1500px;
+    margin: 0;
     border-radius: 10px;
   }
   .card-inner{
