@@ -63,7 +63,7 @@ a:hover{
     transition: transform 0.8s;
     position: relative;
   }
-/*
+
   .card-front .card-back{
     width: 100%;
     height: 100%;
@@ -82,10 +82,10 @@ a:hover{
 
   }
 
-  .card-back{
+  .card-front{
     background-color: #ffff;
   }
-    
+  
   
 
   .card-back{
@@ -93,7 +93,7 @@ a:hover{
     color: #fff;
     transform: rotateY(180deg);
   }
-
+ /* 
   .picture-holder{
     width: 100%;
     height: 100%;
