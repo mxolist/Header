@@ -82,9 +82,11 @@ a:hover{
 
   }
 
-  .card-front{
+  .card-back{
     background-color: #ffff;
   }
+    
+  
 
   .card-back{
     background-color: #333;
@@ -98,4 +100,8 @@ a:hover{
     background-color: #ccc;
     margin-bottom: 20px;
     
+  }
+
+  .card-tittle{
+    margin: 0;
   }
