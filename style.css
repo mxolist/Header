@@ -173,3 +173,9 @@ table{
 tr{
  border-top: #ec0b0b;
 }
+.serv-imag{
+    background-color: aqua;
+    width: 50%;
+    margin-left: 40vh;
+
+}
