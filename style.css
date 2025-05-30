@@ -87,7 +87,8 @@ a:hover{
   }
   
   .pic{
-    width: 199px;
+    width: 190px;
+    margin: 5px;
   }
 
   .card-back{
