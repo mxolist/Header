@@ -63,7 +63,7 @@ a:hover{
     transition: transform 0.8s;
     position: relative;
   }
-
+/*
   .card-front .card-back{
     width: 100%;
     height: 100%;
