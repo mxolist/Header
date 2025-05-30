@@ -49,6 +49,14 @@ a:hover{
 
   /* Card style */
 
+  .t-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: center;
+    color: #3072b4;
+  }
+
   .card{
     display: inline-flex;
     padding: 3%;
