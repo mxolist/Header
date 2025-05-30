@@ -10,7 +10,7 @@ body{
     
 }
 
-a{
+.heading {
     text-decoration: none;
     
     margin-top: 2vh;
@@ -29,17 +29,17 @@ a{
 
 }
 
-a:hover{
+.heading:hover{
     color: #fff;
     box-shadow: inset 300px 0 0 0 #72c7ff;
 }
 
-  a:focus {
+  .heading:focus {
     outline: 3px solid #295e92;
     outline-offset: 4px;
   }
 
-  a:active {
+  .heading:active {
     transform: scale(1.05);
   }
   .logo-pic{
