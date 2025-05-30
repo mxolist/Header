@@ -190,8 +190,9 @@ tr:hover {background-color: #dd0101;}
 
 .serv-imag{
     background-color: aqua;
-    width: 70%;
-    margin-left: 40vh;
+    width: 50%;
+    margin-left: 50vh;
+    padding-right: 12px;
 
 }
 .serv-imag img.serv-imag-2{
