@@ -164,7 +164,7 @@ body{
 }
 .p-footer{
     display:inline-flexbox;
-    float: left;
+    align-items: center;
     
 }
 
