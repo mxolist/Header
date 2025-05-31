@@ -298,3 +298,17 @@ th{
     font-family: 'Montserrant', sans-serif;
     color: #72c7ff;
 }
+.btn-booking{
+  width: 125px;
+  background-color: #bad9f8;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  
+}
+.btn-booking:hover{
+  color: white;
+  background-color: #2c3e50;
+  border: none;
+  border-radius: 2rem;
+}
