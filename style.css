@@ -261,8 +261,8 @@ th{
 .b-times{
   width: 60%;
   text-align: center;
-  background-color: #dd0101;
-  color: #3072b4;
+  
+  color: #fcfcfc;
     margin-left: 23%;
 }
 .b-form{
@@ -288,4 +288,13 @@ th{
   border: 2px solid gray;
   width: 98%;
   height: 120px;
+}
+
+.b-h1{
+    padding-top: 5%;
+    padding-bottom: 1.5%;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Montserrant', sans-serif;
+    color: #72c7ff;
 }
