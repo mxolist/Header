@@ -277,15 +277,15 @@ th{
 
 .b-input{
   border: 2px solid gray;
-  width: 100%;
+  width: 95%;
   padding: 15px;
+  margin: 1%;
   min-height: 10px;
   column-span: all;
 }
 .b-input-2{
-  border: 1px solid gray;
-  width: 100%;
-  padding: 5px;
-  min-height: 10px;
-  height: 30%;
+  margin-left: 1.5%;
+  border: 2px solid gray;
+  width: 98%;
+  height: 120px;
 }
