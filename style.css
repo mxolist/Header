@@ -153,11 +153,9 @@ body{
   }
 .container{
     width: 100%;
-    height: 52px;
     float: inline-end;
     text-align: center;
-    
-    bottom: .5%;
+    bottom: 0;
     background-color: #102d3a;
     color: #fff;
 
