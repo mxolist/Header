@@ -266,10 +266,26 @@ th{
     margin-left: 23%;
 }
 .b-form{
-  width: 30%;
-  background-color: #dd0155;
+  width: 40%;
+  background-color: #fcfbfb;
   color: #3072b4;
     margin-left: 28%;
     padding: 3%;
     border: 2px solid #fff;
+  margin-bottom: 6%;
+}
+
+.b-input{
+  border: 2px solid gray;
+  width: 100%;
+  padding: 15px;
+  min-height: 10px;
+  column-span: all;
+}
+.b-input-2{
+  border: 1px solid gray;
+  width: 100%;
+  padding: 5px;
+  min-height: 10px;
+  height: 30%;
 }
