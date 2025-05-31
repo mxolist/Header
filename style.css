@@ -158,13 +158,14 @@ body{
     text-align: center;
     position: fixed;
     bottom: .5%;
-    background-color: #05a3ec;
+    background-color: #102d3a;
+    color: #fff;
 
 }
 .p-footer{
     display:inline-flexbox;
     float: left;
-    color: #3072b4;
+    
 }
 
 /* Service html code*/
