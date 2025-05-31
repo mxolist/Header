@@ -299,16 +299,21 @@ th{
     color: #72c7ff;
 }
 .btn-booking{
-  width: 125px;
+  width: 155px;
   background-color: #bad9f8;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
-  font-weight: 200;
+  font-weight: 100;
+  border-radius: 2rem;
+  padding: 2%;
   
 }
 .btn-booking:hover{
   color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
   background-color: #2c3e50;
   border: none;
-  border-radius: 2r;
+  border-radius: 2rem;
 }
