@@ -186,8 +186,10 @@ table{
     margin-left: 50vh;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
+    font-size: 20px;
     color: #72c7ff;
     margin-bottom: 3%;
+    padding: 2%;
 }
 tr, table{
     margin-top: 2%;
