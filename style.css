@@ -220,7 +220,7 @@ th{
   width: 100%;
   height: 180px;
   left: 0;
-  background-color: #72c7ff;
+  
 }
 
 .abt-heading{
@@ -229,7 +229,8 @@ th{
   font-size: 80px;
   font-weight: 600;
   margin-top: 0%;
-  
+  padding: 3%;
+  color: #fff;
 }
 .abt-discrition{
   width: 80%;
@@ -254,4 +255,21 @@ th{
   background-color: white;
   text-decoration: none;
   padding: 0;
+}
+
+/* Booking page styles here*/
+.b-times{
+  width: 60%;
+  text-align: center;
+  background-color: #dd0101;
+  color: #3072b4;
+    margin-left: 23%;
+}
+.b-form{
+  width: 30%;
+  background-color: #dd0155;
+  color: #3072b4;
+    margin-left: 28%;
+    padding: 3%;
+    border: 2px solid #fff;
 }
