@@ -336,13 +336,20 @@ th{
   width: 33%;
   padding: 4%;
 }
-.col{
+.row-2{
   display: flex;
-  width: 90%;
+  width: 70%;
   margin-left: 5%;
-  background-color: red;
+  color: #fcfcfc;
+  padding: 3%;
+  margin-left: 18%;
 }
 .co-img{
   width: 50px;
 
+
+}
+.col{
+  width: 20%;
+  padding: 4%;
 }
