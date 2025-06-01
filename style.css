@@ -328,12 +328,12 @@ th{
 }
 .row{
   display: flex;
-  width: 50%;
-  margin-left: 30%;
+  width: 70%;
+  margin-left: 15%;
   background-color: red;
 }
 .co-form{
-  width: 33%;
+  width: 48%;
   padding: 4%;
 }
 .row-2{
@@ -358,4 +358,10 @@ th{
   width: 80%;
   padding: 10%;
 
+}
+.f-info{
+  width: 100%;
+  margin: 2%;
+  border: 1px solid black;
+  height: 25px;
 }
