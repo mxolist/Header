@@ -330,7 +330,7 @@ th{
   display: flex;
   width: 70%;
   margin-left: 15%;
-  background-color: red;
+ 
 }
 .co-form{
   width: 48%;
@@ -354,7 +354,7 @@ th{
   padding: 4%;
 }
 .myContact{
-  background-color: #72c7ff;
+  background-color: #102d3a;
   width: 80%;
   padding: 10%;
 
@@ -382,6 +382,13 @@ th{
   border-radius: 2rem;
   border: 1px white solid;
   font-size: large;
+}
+
+.f-btn:hover{
+  background-color: #bad9f8;
+  color: #033150;
+  cursor: pointer;
+  border: 1px #033150 solid;
 }
 
 
