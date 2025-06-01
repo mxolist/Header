@@ -327,8 +327,12 @@ th{
    height: 330px;
 }
 .row{
-  display: inline;
-  width: 33%;
+  display: flex;
+  width: 70%;
   margin-left: 20%;
   background-color: red;
+}
+.co-form{
+  width: 33%;
+  padding: 4%;
 }
