@@ -244,18 +244,46 @@ th{
 }
 .abt-row{
   display: flex;
-  width: 60%;
+  width: 80%;
   height: 40%;
   background-color: #ec0b0b;
+  margin:auto;
 }
 .abt-col{
   width: 80%;
-
+  padding-bottom: 6vh;
+  
 }
 .abt-img1{
   width: 23vh;
-  height: 25vh;
+  height: 20vh;
 }
+#abt-mission, #abt-img2 {
+  float: right;
+}
+.abt-img1{
+  float: left;
+}
+
+.abt-h2{
+  text-align: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  margin-top: 0%;
+  padding: 1%;
+  color: #fff;
+}
+.abt-h2-mission{
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  margin-top: 0%;
+  padding: 1%;
+  color: #fff;
+}
+
 
 
 /* Booking page styles here*/
