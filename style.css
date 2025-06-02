@@ -360,13 +360,15 @@ th{
 
 }
 .f-info{
-  width: 100%;
+  width: 96%;
   margin: 2%;
   border: 1px solid black;
   height: 25px;
+  padding: 1vh;
 }
 .f-area{
-  width: 100%;
+  margin: 2%;
+  width: 96%;
   height: 15vh;
   padding: 2%;
 
@@ -390,5 +392,11 @@ th{
   cursor: pointer;
   border: 1px #033150 solid;
 }
-
+.btn-center{
+  display: flex;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  padding-top: 3vh;
+}
 
