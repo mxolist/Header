@@ -243,22 +243,7 @@ th{
   font-weight: 300;
 }
 
-.abt-discription-2{
-  width: 80%;
-  margin-left: 8%;
-  text-decoration: none;
-  font-size: 20px;
-  font-weight: 300;
-  background-color: darkgreen;
-}
-.abt-link{
-  width: 27px;
-  font-size: 30px;
-  color: #333;
-  background-color: white;
-  text-decoration: none;
-  padding: 0;
-}
+
 
 /* Booking page styles here*/
 .b-times{
