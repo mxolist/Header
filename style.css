@@ -224,6 +224,7 @@ th{
   height: 180px;
   left: 0;
   
+  
 }
 
 .abt-heading{
@@ -234,6 +235,7 @@ th{
   margin-top: 0%;
   padding: 3%;
   color: #fff;
+  
 }
 .abt-discrition{
   width: 80%;
@@ -241,12 +243,12 @@ th{
   color: #ffffff;
   font-size: 20px;
   font-weight: 300;
+  margin-bottom: 8%;
 }
 .abt-row{
   display: flex;
-  width: 80%;
+  width: 90%;
   height: 40%;
-  background-color: #ec0b0b;
   margin:auto;
 }
 .abt-col{
@@ -255,8 +257,8 @@ th{
   
 }
 .abt-img1{
-  width: 23vh;
-  height: 20vh;
+  width: 33vh;
+  height: 36vh;
 }
 #abt-mission, #abt-img2 {
   float: right;
@@ -268,7 +270,7 @@ th{
 .abt-h2{
   text-align: right;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 200;
   margin-top: 0%;
   padding: 1%;
@@ -277,16 +279,34 @@ th{
 .abt-h2-mission{
   text-align: left;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 200;
   margin-top: 0%;
   padding: 1%;
   color: #fff;
-}
-.abt-col-1{
-  display: grid;
   
 }
+.abt-hr{
+  width: 30%;
+  float: right;
+  border: 1px solid #8bb8d6;
+}
+.abt-hr2{
+  width: 30%;
+  float: left;
+  border: 1px solid #8bb8d6;
+}
+.abt-p-ol{
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  margin-top: 0%;
+  padding: 3%;
+  color: #fff;
+
+}
+
 
 
 
