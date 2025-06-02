@@ -328,8 +328,9 @@ th{
 }
 .row{
   display: flex;
-  width: 70%;
-  margin-left: 15%;
+  width: 80%;
+  margin-left: 10%;
+  
  
 }
 .co-form{
@@ -343,6 +344,7 @@ th{
   color: #fcfcfc;
   padding: 3%;
   margin-left: 18%;
+  
 }
 .co-img{
   width: 50px;
@@ -403,9 +405,23 @@ th{
 #f-h4{
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 300;
   color: #fff;
-  
+
+}
+
+.google-map {
+     padding-bottom: 2%;
+     position: relative;
+      height: 100%;
+     width: 100%;
+
+}
+
+ iframe {
+     height: 100%;
+     width: 100%;
+     
 }
 
